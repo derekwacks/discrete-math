@@ -1,1 +1,1 @@
-Python programs for Problem 2 for COMS 3203 Discrete Mathematics
+Python programs for Problem 1 (Matthew Roman) & 2 (Derek Wacks) for COMS 3203 Discrete Mathematics
